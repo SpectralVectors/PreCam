@@ -1,5 +1,6 @@
 # PreCam
 Live viewport preview of the active camera
+!(PreCam)[/PreCam.png]
 
 ## What It Is
 In Unreal Engine, you can use a RenderTarget2D to capture the output of a camera in your scene. This can be used for minimaps, viewscreens, weapon sights etc.
